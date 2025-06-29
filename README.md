@@ -18,3 +18,4 @@ $ ./optimize.sh -i bootanimkali.mp4
 $ ./optimize.sh -i bootanimkali.mp4 -t rgba -r 1080:1920 -f 60
 $ ./optimize.sh -i bootanimkali.mp4 -t rgba -r 1080:1920 -f 60 -z -y
 ```
+![output](https://github.com/user-attachments/assets/067dc3c7-1fd3-4cb1-8479-327eb399332c)
