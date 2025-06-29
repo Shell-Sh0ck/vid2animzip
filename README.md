@@ -1,4 +1,5 @@
 # vid2animzip
+Warning: Too large mp4 files or others may lead to insufficient RAM on your android device, which may cause a bootloop. Use animations of less than 200 MB.
 ```
 Options:
    -i <file>   Input video file (default: ./video.mp4)
