@@ -11,3 +11,9 @@ Options:
    -q          Enable quiet mode (quiet mode)
    -h          Show help
 ```
+# Examples
+```
+$ ./optimize.sh -i bootanimkali.mp4
+$ ./optimize.sh -i bootanimkali.mp4 -t rgba -r 1080:1920 -f 60
+$ ./optimize.sh -i bootanimkali.mp4 -t rgba -r 1080:1920 -f 60 -z -y
+```
